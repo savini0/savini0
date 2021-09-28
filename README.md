@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sávio
 - 👀 Software Engineering Course,
 - 🌱 I am currently studying HTML, CSS, JavaScript and Python.
-- 💞️ I'm looking to collaborate on basic web development applications.
+- 💞️ I'm looking to collaborate on basic web development projects.
 - 📫 How to reach me www.linkedin.com/in/savini21
 
 <div align="center"><div align="center">
